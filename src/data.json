@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "task": "Night programming",
+    "completed": false
+}, 
+
+{
+    "id": 2,
+    "task": "Go to the supermarket",
+    "completed": false
+},
+{
+    "id": 3,
+    "task": "Wash the car",
+    "completed": true
+}]
