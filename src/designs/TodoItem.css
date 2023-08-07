@@ -1,0 +1,15 @@
+
+
+.estilo {
+    margin: 30px 0px 30px 0px;
+    border: none;
+}
+
+.button-delete {
+    cursor: pointer;
+    border: none;
+
+    justify-content: right;
+    align-items: right;
+   /* background-color: red; */
+}
